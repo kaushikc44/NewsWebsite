@@ -10,7 +10,7 @@ import {
   Route
 } from 'react-router-dom';
 
-console.log(process.env.REACT_APP_API_KEY);
+
 
 export default class App extends Component {
   apikey = process.env.REACT_APP_API_KEY
